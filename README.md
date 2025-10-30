@@ -22,5 +22,5 @@ Uygulama C# ve .NET Windows Forms kullanılarak geliştirilmiştir.
 5. Artık mesajlaşabilirsiniz!
 
 
-## 👨‍💻 Geliştirici
+## Geliştirici
    Oğuz Ayaz
